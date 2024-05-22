@@ -1,0 +1,115 @@
+C:\Users\User\Desktop\Making\system\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.exe.config
+C:\Users\User\Desktop\Making\system\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.exe
+C:\Users\User\Desktop\Making\system\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.pdb
+C:\Users\User\Desktop\Making\system\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Making\system\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.Form1.resources
+C:\Users\User\Desktop\Making\system\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.login.resources
+C:\Users\User\Desktop\Making\system\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.Properties.Resources.resources
+C:\Users\User\Desktop\Making\system\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Making\system\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Making\system\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.exe
+C:\Users\User\Desktop\Making\system\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.pdb
+C:\Users\User\Desktop\Making\system\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.home.resources
+C:\Users\User\Desktop\Making\system\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.items.resources
+C:\Users\User\Desktop\Making\system\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.patient.resources
+C:\Users\User\Desktop\Making\system\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.balancebill.resources
+C:\Users\User\Desktop\Making\system\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.report.resources
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\optical.mdf
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\optical_log.ldf
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.exe.config
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.exe
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.pdb
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.AssemblyReference.cache
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.balancebill.resources
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.Form1.resources
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.home.resources
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.items.resources
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.login.resources
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.patient.resources
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.Properties.Resources.resources
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.report.resources
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.GenerateResource.cache
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.CoreCompileInputs.cache
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.exe
+E:\Cproject\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.pdb
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\optical.mdf
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\optical_log.ldf
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.exe.config
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.exe
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.pdb
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.AssemblyReference.cache
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.balancebill.resources
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.Form1.resources
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.home.resources
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.items.resources
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.login.resources
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.patient.resources
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.Properties.Resources.resources
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.report.resources
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.GenerateResource.cache
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.exe
+C:\Users\aysha\Downloads\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.pdb
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\optical.mdf
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\optical_log.ldf
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.exe.config
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.exe
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.pdb
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.AssemblyReference.cache
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.balancebill.resources
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.Form1.resources
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.home.resources
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.items.resources
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.login.resources
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.patient.resources
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.Properties.Resources.resources
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.report.resources
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.GenerateResource.cache
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.CoreCompileInputs.cache
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.exe
+C:\Users\aysha\Downloads\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.pdb
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\optical.mdf
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\optical_log.ldf
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.exe.config
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.exe
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.pdb
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.AssemblyReference.cache
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.SuggestedBindingRedirects.cache
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.balancebill.resources
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.Form1.resources
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.home.resources
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.items.resources
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.login.resources
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.patient.resources
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.Properties.Resources.resources
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.report.resources
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.GenerateResource.cache
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.CoreCompileInputs.cache
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.exe
+E:\optical shopsystem (2)\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.pdb
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.exe.config
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.exe
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.pdb
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\optical.mdf
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.exe
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\opticalmanagementsystem.pdb
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\mscorlib.dll
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\System.Net.Http.dll
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\System.Net.Http.xml
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\normidna.nlp
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\normnfc.nlp
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\normnfd.nlp
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\normnfkc.nlp
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\bin\Debug\normnfkd.nlp
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csprojResolveAssemblyReference.cache
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.balancebill.resources
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.Form1.resources
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.home.resources
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.items.resources
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.login.resources
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.patient.resources
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.Properties.Resources.resources
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.report.resources
+D:\optical shopsystem 50\optical shopsystem\optical shopsystem\opticalmanagementsystem\opticalmanagementsystem\obj\Debug\opticalmanagementsystem.csproj.GenerateResource.Cache
